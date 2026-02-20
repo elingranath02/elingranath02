@@ -4,8 +4,10 @@ I am a third-year student pursuing a Master of Science in Engineering (Civilinge
 
 ### Skills
 
-**Languages:** Java, C, JavaScript, SQL (PostgreSQL), HTML, CSS  
+**Languages:** Java, C, JavaScript, SQL (PostgreSQL), HTML, CSS, SWI-Prolog
+
 **Technologies:** Node.js, React, SolidJS, REST APIs, Prisma ORM, Microservices
+
 **Systems & Parallelism:** OpenMP, Pthreads (POSIX threads), Git
 
 ### Experience & Projects
