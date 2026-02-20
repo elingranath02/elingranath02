@@ -1,16 +1,22 @@
-## Hi there 👋
+# Welcome to my GitHub Page!
 
-<!--
-**elingranath02/elingranath02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a third-year student pursuing a Master of Science in Engineering (Civilingenjör) in Information and Communication Technology at KTH.
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Java, C, JavaScript, SQL (PostgreSQL), HTML, CSS  
+**Technologies:** Node.js, React, SolidJS, REST APIs, Prisma ORM, Microservices
+**Systems & Parallelism:** OpenMP, Pthreads (POSIX threads), Git
+
+### Experience & Projects
+
+**Nordnet Bank** Currently conducting my Bachelor’s degree project focused on transaction analysis and automation within credit risk.
+
+**Caput Venti Software** Experience as a Web Developer, responsible for full-stack development and backend architecture.
+
+**Algorithms & Complexity** [Algorithms_Datastructures_Complexity](https://github.com/elingranath02/Algorithms_Datastructures_Complexity) – Implementation of advanced algorithms and heuristics for NP-hard problems.
+
+### Contact
+
+**Email:** elin.granath02@hotmail.com  
+**LinkedIn:** [linkedin.com/in/elin-granath](https://www.linkedin.com/in/elin-granath-491b94207)
