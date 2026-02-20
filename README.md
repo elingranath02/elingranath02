@@ -18,6 +18,12 @@ I am a third-year student pursuing a Master of Science in Engineering (Civilinge
 
 **Algorithms & Complexity** [Algorithms_Datastructures_Complexity](https://github.com/elingranath02/Algorithms_Datastructures_Complexity) – Implementation of advanced algorithms and heuristics for NP-hard problems.
 
+**Melody Mapper** – [melodymapper-236fb.web.app](https://melodymapper-236fb.web.app)  
+A music-based geography game. Players guess artist origins based on audio snippets, with real-time scoring and leaderboards. Built with React and TailwindCSS.
+
+**SustainaBin** – [sustainabin-7baac.web.app](https://sustainabin-7baac.web.app)  
+A smart waste management system featuring a self-sorting bin and a companion app. Users can track bin locations, monitor fill levels in real-time, and earn achievements for recycling. Built with a focus on IoT-integration and gamified sustainability.
+
 ### Contact
 
 **Email:** elin.granath02@hotmail.com  
